@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./cart-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bahnschrift:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Times New Roman:ital,wght@0,400;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Candara:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Russo One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Doppio One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Gabriola:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Comic Sans MS:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fugaz One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Clash Display:wght@500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="cart-page">
+      <div class="base2">
+        <div class="base-child1"></div>
+        <div class="base-child2"></div>
+      </div>
+      <div class="cart-page-child"></div>
+      <img
+        class="account-button-icon2"
+        alt=""
+        src="./public/account-button.svg"
+        id="accountButtonIcon"
+      />
+
+      <img
+        class="notifications-button-icon2"
+        alt=""
+        src="./public/notifications-button.svg"
+        id="notificationsButtonIcon"
+      />
+
+      <img class="cart-button-icon2" alt="" src="./public/cart-button.svg" />
+
+      <img
+        class="category-button-icon2"
+        alt=""
+        src="./public/category-button.svg"
+        id="categoryButtonIcon"
+      />
+
+      <img
+        class="home-button-icon2"
+        alt=""
+        src="./public/home-button.svg"
+        id="homeButtonIcon"
+      />
+
+      <div class="image-277-parent">
+        <img class="image-277-icon" alt="" src="./public/image-277@2x.png" />
+
+        <div class="count-selector">
+          <div class="count-selector-child"></div>
+          <div class="div">+</div>
+          <div class="count-selector-item"></div>
+          <div class="div1">1</div>
+          <div class="count-selector-inner"></div>
+          <div class="div2">-</div>
+        </div>
+        <div class="delete">
+          <div class="delete-child"></div>
+          <div class="fluentdelete-20-regular-parent">
+            <img
+              class="fluentdelete-20-regular-icon"
+              alt=""
+              src="./public/fluentdelete20regular.svg"
+            />
+
+            <div class="delete1">Delete</div>
+          </div>
+        </div>
+        <div class="save">
+          <div class="save-child"></div>
+          <div class="biheart-parent">
+            <img class="biheart-icon" alt="" src="./public/biheart.svg" />
+
+            <div class="add-to-wishlist">Add To WishList</div>
+          </div>
+        </div>
+        <div class="gift-option">
+          <div class="this-is-a">This Is A Gift</div>
+          <img
+            class="icoutline-check-box-icon"
+            alt=""
+            src="./public/icoutlinecheckbox.svg"
+          />
+        </div>
+        <div class="in-stock">In Stock</div>
+        <div class="mrp-16000">MRP : $16000</div>
+        <div class="sony-200mm-zoom">SONY 200mm Zoom</div>
+      </div>
+      <div class="search-bar2">
+        <div class="search-bar-inner"></div>
+        <img
+          class="riqr-scan-2-line-icon2"
+          alt=""
+          src="./public/riqrscan2line.svg"
+        />
+
+        <img class="fesearch-icon2" alt="" src="./public/fesearch.svg" />
+
+        <i class="search-for-products2">Search for products...</i>
+      </div>
+    </div>
+
+    <script>
+      var accountButtonIcon = document.getElementById("accountButtonIcon");
+      if (accountButtonIcon) {
+        accountButtonIcon.addEventListener("click", function (e) {
+          window.location.href = "./account-page.html";
+        });
+      }
+      
+      var notificationsButtonIcon = document.getElementById(
+        "notificationsButtonIcon"
+      );
+      if (notificationsButtonIcon) {
+        notificationsButtonIcon.addEventListener("click", function (e) {
+          window.location.href = "./notification-page.html";
+        });
+      }
+      
+      var categoryButtonIcon = document.getElementById("categoryButtonIcon");
+      if (categoryButtonIcon) {
+        categoryButtonIcon.addEventListener("click", function (e) {
+          window.location.href = "./categories-page.html";
+        });
+      }
+      
+      var homeButtonIcon = document.getElementById("homeButtonIcon");
+      if (homeButtonIcon) {
+        homeButtonIcon.addEventListener("click", function (e) {
+          window.location.href = "./main-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>
