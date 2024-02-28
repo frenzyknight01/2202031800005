@@ -1,0 +1,356 @@
+.base-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(168.03deg, #4776e6 2.83%, #8e54e9);
+  width: 472px;
+  height: 969px;
+}
+.base-child4 {
+  position: absolute;
+  top: 12px;
+  left: 22px;
+  background-color: var(--color-white);
+  width: 428px;
+  height: 926px;
+}
+.base3 {
+  position: absolute;
+  top: -12px;
+  left: -22px;
+  width: 472px;
+  height: 969px;
+}
+.categories-page-child {
+  position: absolute;
+  top: 849.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-mediumslateblue-100);
+  box-sizing: border-box;
+  width: 429px;
+  height: 1px;
+}
+.account-button-icon3 {
+  position: absolute;
+  top: 869px;
+  left: 337px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.cart-button-icon3,
+.notifications-button-icon3 {
+  position: absolute;
+  top: 869px;
+  left: 269px;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+.cart-button-icon3 {
+  top: 865px;
+  left: 195px;
+  width: 38px;
+  height: 38px;
+}
+.category-button-icon3,
+.home-button-icon3 {
+  position: absolute;
+  top: 869px;
+  left: 127px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.home-button-icon3 {
+  left: 59px;
+  cursor: pointer;
+}
+.categories1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 68px;
+  height: 18.1px;
+}
+.frame-child {
+  position: absolute;
+  top: -21px;
+  left: 97.5px;
+  border-radius: 50%;
+  background-color: var(--color-slategray);
+  filter: blur(94.22px);
+  width: 125px;
+  height: 125px;
+}
+.home {
+  position: absolute;
+  top: 184px;
+  left: 57px;
+  letter-spacing: 0.05em;
+}
+.untitled-1-1-icon {
+  position: absolute;
+  top: 31px;
+  left: 15px;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.furniture {
+  position: absolute;
+  top: 186.8px;
+  left: 41px;
+  letter-spacing: 0.05em;
+}
+.nav7-livingroomfurniture-icon {
+  position: absolute;
+  top: 25px;
+  left: 1px;
+  width: 158px;
+  height: 158px;
+  object-fit: cover;
+}
+.ellipse-group {
+  position: absolute;
+  top: 466px;
+  left: 0;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+}
+.image-277-icon1 {
+  position: absolute;
+  top: 45px;
+  left: -10px;
+  width: 179.6px;
+  height: 101px;
+  object-fit: cover;
+}
+.beauty {
+  position: absolute;
+  top: 183.8px;
+  left: 51px;
+  letter-spacing: 0.05em;
+}
+.pxf239ul-icon {
+  position: absolute;
+  top: 31px;
+  left: 15px;
+  width: 129px;
+  height: 129px;
+  object-fit: cover;
+}
+.ellipse-container {
+  position: absolute;
+  top: 233px;
+  left: 0;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+}
+.food {
+  position: absolute;
+  top: 189px;
+  left: 60px;
+  letter-spacing: 0.05em;
+}
+.lmuejjhcl-icon {
+  position: absolute;
+  top: 44px;
+  left: 29px;
+  width: 102px;
+  height: 102px;
+  object-fit: cover;
+}
+.frame-div {
+  position: absolute;
+  top: 699px;
+  left: 0;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+}
+.kossawh2l-1-icon {
+  position: absolute;
+  top: 27px;
+  left: 11px;
+  width: 137px;
+  height: 137px;
+  object-fit: cover;
+}
+.electronics {
+  position: absolute;
+  top: 183.8px;
+  left: 33px;
+  letter-spacing: 0.05em;
+}
+.ellipse-parent1 {
+  position: absolute;
+  top: 0;
+  left: 173px;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+}
+.az0ktrfvl-icon {
+  position: absolute;
+  top: 30px;
+  left: 35px;
+  width: 90px;
+  height: 116px;
+  object-fit: cover;
+}
+.toys {
+  position: absolute;
+  top: 186.8px;
+  left: 61px;
+  letter-spacing: 0.05em;
+}
+.ellipse-parent2 {
+  position: absolute;
+  top: 466px;
+  left: 173px;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+}
+.epic-classic-premium-practice-icon {
+  position: absolute;
+  top: 35px;
+  left: 19px;
+  width: 122px;
+  height: 122px;
+  object-fit: cover;
+}
+.sports {
+  position: absolute;
+  top: 183.8px;
+  left: 52px;
+  letter-spacing: 0.05em;
+}
+.ellipse-parent3 {
+  position: absolute;
+  top: 233px;
+  left: 173px;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+}
+.medicines {
+  position: absolute;
+  top: 189px;
+  left: 38px;
+  letter-spacing: 0.05em;
+}
+.guag6okl-icon {
+  position: absolute;
+  top: 39px;
+  left: 26px;
+  width: 107px;
+  height: 107px;
+  object-fit: cover;
+}
+.ellipse-parent4 {
+  position: absolute;
+  top: 699px;
+  left: 173px;
+  border-radius: var(--br-lg);
+  background: linear-gradient(152.55deg, #4776e6, #8e54e9);
+  width: 160px;
+  height: 222px;
+  overflow: hidden;
+}
+.frame-parent {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  width: 333px;
+  height: 731px;
+  overflow-y: auto;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--font-russo-one);
+}
+.categories {
+  position: absolute;
+  top: 101px;
+  left: 29px;
+  width: 351px;
+  height: 749px;
+}
+.search-bar-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 368px;
+  height: 44px;
+}
+.fesearch-icon3,
+.riqr-scan-2-line-icon3 {
+  position: absolute;
+  top: 9px;
+  left: 336px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.fesearch-icon3 {
+  top: 10px;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+}
+.search-bar3,
+.search-for-products3 {
+  position: absolute;
+  top: 11px;
+  left: 57px;
+}
+.search-bar3 {
+  top: 36px;
+  left: 30px;
+  width: 368px;
+  height: 44px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-300);
+  font-family: var(--font-times-new-roman);
+}
+.categories-page {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-candara);
+}
