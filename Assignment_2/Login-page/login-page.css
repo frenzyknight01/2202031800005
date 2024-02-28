@@ -1,0 +1,208 @@
+.login-page-child {
+  position: absolute;
+  top: -12px;
+  left: -22px;
+  background: linear-gradient(168.03deg, #4776e6 2.83%, #8e54e9);
+  width: 472px;
+  height: 969px;
+}
+.login-button-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 70px);
+  border-radius: var(--br-5xl);
+  width: 140px;
+  height: 42px;
+}
+.login {
+  position: absolute;
+  top: 9px;
+  left: 33px;
+  mix-blend-mode: multiply;
+}
+.login-button {
+  position: absolute;
+  top: 845px;
+  left: calc(50% - 70px);
+  width: 140px;
+  height: 42px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lgi);
+}
+.new-user {
+  position: absolute;
+  top: 818px;
+  left: 170px;
+  text-decoration: underline;
+  color: var(--color-white);
+}
+.continue-with-google-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+  width: 321px;
+  height: 47px;
+}
+.continue-with-google1 {
+  position: absolute;
+  top: 14px;
+  left: 96px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.flat-color-iconsgoogle {
+  position: absolute;
+  top: 8px;
+  left: 59px;
+  width: 31px;
+  height: 31px;
+  overflow: hidden;
+}
+.continue-with-google {
+  position: absolute;
+  top: 250px;
+  left: 0;
+  width: 321px;
+  height: 47px;
+  cursor: pointer;
+}
+.login-trigger-child {
+  position: absolute;
+  top: 222px;
+  left: 178px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 143px;
+  height: 0;
+}
+.or {
+  position: absolute;
+  top: 213px;
+  left: 150px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.login-trigger-item {
+  position: absolute;
+  top: 222px;
+  left: 0;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 143px;
+  height: 0;
+}
+.login-child {
+  top: 0;
+  left: calc(50% - 88.5px);
+  border-radius: var(--br-5xl);
+  width: 177px;
+  height: 42px;
+}
+.login-child,
+.login1,
+.login2 {
+  position: absolute;
+}
+.login2 {
+  top: 9px;
+  left: 63px;
+  mix-blend-mode: multiply;
+}
+.login1 {
+  top: 162px;
+  left: calc(50% - 88.5px);
+  width: 177px;
+  height: 42px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lgi);
+  color: var(--color-mediumslateblue-200);
+}
+.password-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-300);
+  width: 321px;
+  height: 47px;
+}
+.icround-password-icon {
+  position: absolute;
+  top: 13px;
+  left: 11px;
+  width: 28px;
+  height: 22px;
+  overflow: hidden;
+}
+.password1 {
+  position: absolute;
+  top: 14px;
+  left: 50px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.password {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 321px;
+  height: 47px;
+}
+.carbonemail-icon {
+  position: absolute;
+  top: 7px;
+  left: 9px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.emailphone {
+  position: absolute;
+  top: 13px;
+  left: 49px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.email,
+.login3 {
+  position: absolute;
+  left: 0;
+}
+.email {
+  top: 50px;
+  width: 321px;
+  height: 47px;
+}
+.login3 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.login-trigger,
+.logo-3-icon {
+  position: absolute;
+  top: 279px;
+  left: 53px;
+  width: 321px;
+  height: 297px;
+}
+.logo-3-icon {
+  top: 44px;
+  left: 0;
+  width: 428px;
+  height: 216px;
+  object-fit: cover;
+}
+.login-page {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  height: 926px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-quicksand);
+}
