@@ -1,0 +1,224 @@
+.base-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(168.03deg, #4776e6 2.83%, #8e54e9);
+  width: 472px;
+  height: 969px;
+}
+.base-item {
+  position: absolute;
+  top: 12px;
+  left: 22px;
+  background-color: var(--color-white);
+  width: 428px;
+  height: 926px;
+}
+.base {
+  position: absolute;
+  top: -12px;
+  left: -22px;
+  width: 472px;
+  height: 969px;
+}
+.account-page-child {
+  position: absolute;
+  top: 849.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-mediumslateblue-100);
+  box-sizing: border-box;
+  width: 429px;
+  height: 1px;
+}
+.account-button-icon {
+  position: absolute;
+  top: 869px;
+  left: 337px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.cart-button-icon,
+.notifications-button-icon {
+  position: absolute;
+  top: 869px;
+  left: 269px;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+.cart-button-icon {
+  top: 865px;
+  left: 195px;
+  width: 38px;
+  height: 38px;
+}
+.category-button-icon,
+.home-button-icon {
+  position: absolute;
+  top: 869px;
+  left: 127px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.home-button-icon {
+  left: 59px;
+}
+.app-version-111 {
+  position: absolute;
+  top: 789px;
+  left: 153px;
+  font-family: var(--font-bahnschrift);
+  color: rgba(0, 0, 0, 0.24);
+}
+.account-page-item {
+  position: absolute;
+  top: 143px;
+  left: 30px;
+  border-radius: 10px;
+  background-color: #f7f5f5;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  box-sizing: border-box;
+  width: 368px;
+  height: 221px;
+}
+.cancellation,
+.cancellation1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.cancellation {
+  top: 336px;
+  left: 46px;
+  width: 86px;
+  height: 20px;
+}
+.recent-purchases-child {
+  position: absolute;
+  top: 27px;
+  left: 0;
+  width: 366px;
+  height: 0.5px;
+  object-fit: contain;
+}
+.recent-purchases1 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+}
+.recent-purchases {
+  position: absolute;
+  top: 302px;
+  left: 31px;
+  width: 366px;
+  height: 27.5px;
+}
+.alerts1 {
+  position: absolute;
+  top: 0;
+  left: 16px;
+}
+.alerts {
+  top: 267px;
+  left: 32px;
+  height: 27.5px;
+}
+.alerts,
+.devices,
+.devices-child {
+  position: absolute;
+  width: 366px;
+}
+.devices-child {
+  top: 29px;
+  left: 0;
+  height: 0.5px;
+  object-fit: contain;
+}
+.devices {
+  top: 230px;
+  left: 31px;
+  height: 29.5px;
+}
+.change-address {
+  top: 193px;
+  left: 31px;
+  height: 29.5px;
+}
+.change-address,
+.security,
+.security-child {
+  position: absolute;
+  width: 366px;
+}
+.security-child {
+  top: 30px;
+  left: 0;
+  height: 0.5px;
+  object-fit: contain;
+}
+.security {
+  top: 155px;
+  left: 31px;
+  height: 30.5px;
+}
+.account-settings {
+  position: absolute;
+  top: 114px;
+  left: 30px;
+  font-size: 20px;
+  font-family: var(--font-candara);
+  color: var(--color-black);
+}
+.search-bar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 368px;
+  height: 44px;
+}
+.fesearch-icon,
+.riqr-scan-2-line-icon {
+  position: absolute;
+  top: 9px;
+  left: 336px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.fesearch-icon {
+  top: 10px;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+}
+.search-bar,
+.search-for-products {
+  position: absolute;
+  top: 11px;
+  left: 57px;
+}
+.search-bar {
+  top: 36px;
+  left: 30px;
+  width: 368px;
+  height: 44px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-300);
+}
+.account-page {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-gray-200);
+  font-family: var(--font-times-new-roman);
+}
